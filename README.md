@@ -1,6 +1,6 @@
 # Async Iterable to Readable Stream
 
-[![CircleCI](https://circleci.com/gh/bunchtogether/async-iterable-to-readable-stream.svg?style=svg)](https://circleci.com/gh/bunchtogether/async-iterable-to-readable-stream) [![npm version](https://badge.fury.io/js/async-iterable-to-readable-stream.svg)](http://badge.fury.io/js/async-iterable-to-readable-stream) [![codecov](https://codecov.io/gh/bunchtogether/async-iterable-to-readable-stream/branch/master/graph/badge.svg)](https://codecov.io/gh/bunchtogether/async-iterable-to-readable-stream)
+[![CircleCI](https://circleci.com/gh/bunchtogether/async-iterable-to-readable-stream.svg?style=svg)](https://circleci.com/gh/bunchtogether/async-iterable-to-readable-stream) [![npm version](https://badge.fury.io/js/async-iterable-to-readable-stream.svg)](http://badge.fury.io/js/async-iterable-to-readable-stream)
 
 Convert an async iterable into a readable stream. No dependencies.
 
